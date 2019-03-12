@@ -16,16 +16,11 @@ rem internet
 choco install googlechrome
 choco install opera 
 choco install firefox
-choco install chromium
-choco install openvpn
 choco install qbittorrent
 choco install thunderbird
-choco install tor-browser
-choco install telegram.install
 
 rem Text
 choco install notepadplusplus
-choco install sublimetext3
 choco install libreoffice-fresh
 
 rem Image
@@ -44,9 +39,6 @@ rem System
 choco install ccleaner
 choco install javaruntime
 choco install dotnet4.5
-choco install procexp
-choco install wsus-offline-update
-choco install processhacker
 choco install speccy
 choco install cpu-z.install
 choco install defraggler
@@ -57,21 +49,12 @@ choco install 7zip
 choco install winrar
 
 rem Remote
-#choco install rdcman
-#choco install vnc-viewer
 choco install anydesk
-#choco install kitty
-#choco install winscp.portable
 
 rem File
 choco install totalcommander
 
-
-#choco install veracrypt
-choco install vagrant
 choco install classic-shell
 choco install avastfreeantivirus
-choco install adblockpluschrome
-
 
 choco feature disable -n allowGlobalConfirmation
