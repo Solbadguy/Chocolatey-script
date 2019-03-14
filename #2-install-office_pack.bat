@@ -16,6 +16,7 @@ rem internet
 choco install googlechrome
 choco install opera 
 choco install firefox
+choco install ublockorigin-firefox
 choco install qbittorrent
 choco install thunderbird
 
